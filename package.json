@@ -1,0 +1,8 @@
+{
+  "name": "whatyearisit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Martint1n/whatyearisit-frontend.git",
+  "author": "guilbert <guilbertmartin75@gmail.com>",
+  "license": "MIT"
+}
